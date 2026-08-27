@@ -14,6 +14,10 @@ Estado: propuesta de preparación. No autoriza despliegues.
 
 ## Principios
 
+- `inmobia360.com` se reserva para la presentación institucional del negocio.
+- Las landings comerciales regionales se organizan mediante subdirectorios del dominio principal.
+- Los subdominios se reservan para aplicaciones, demo, ayuda y servicios globales con una función validada.
+- No se crearán subdominios anticipadamente ni se expondrán APIs internas sin una necesidad justificada.
 - Marketing y aplicación deben poder desplegarse y revertirse por separado.
 - La demo no debe utilizar datos personales reales ni exponer controles internos.
 - Los secretos deben residir en el proveedor de CI/CD o en el entorno de ejecución, nunca en Git.
@@ -27,3 +31,4 @@ Estado: propuesta de preparación. No autoriza despliegues.
 - Método de despliegue para WordPress.
 - Método de despliegue para Next.js.
 - Gestión de DNS, SSL, copias de seguridad y rollback.
+- Registro de subdominios, responsables, entornos, datos tratados y controles de seguridad.
