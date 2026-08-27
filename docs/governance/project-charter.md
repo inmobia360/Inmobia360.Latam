@@ -30,9 +30,11 @@ El MVP validará primero:
 ## Arquitectura de superficies aprobada
 
 - `inmobia360.com`: web institucional LATAM.
-- `inmobia360.com/peru/`: landing comercial de Perú.
+- `inmobia360.com/pe/`: landing comercial de Perú.
+- `inmobia360.com/co/`, `inmobia360.com/mx/` y `inmobia360.com/cl/`: futuras landings comerciales regionales, no publicadas en la fase inicial.
 - `app.inmobia360.com`: aplicación SaaS.
 - `demo.inmobia360.com`: entorno de demostración.
+- `ayuda.inmobia360.com`: futura documentación y soporte.
 - WordPress + Bricks: webs comerciales.
 - Next.js separado: aplicación SaaS.
 
@@ -48,4 +50,3 @@ El MVP validará primero:
 ## Hipótesis
 
 La priorización de Lima y WhatsApp debe validarse con usuarios y operación real controlada, sin introducir datos personales reales durante esta fase.
-
