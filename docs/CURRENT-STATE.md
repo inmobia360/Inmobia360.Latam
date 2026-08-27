@@ -17,12 +17,15 @@ La carpeta estaba vacía antes de esta migración. No existían archivos, direct
 - MVP aprobado: captación y centralización de leads; calificación de compradores y propietarios; seguimiento comercial; gestión básica de propiedades y demandas; matching básico; WhatsApp como canal prioritario para Perú.
 - Arquitectura aprobada: `inmobia360.com` institucional LATAM; `inmobia360.com/pe/` landing comercial Perú; `app.inmobia360.com` aplicación SaaS; `demo.inmobia360.com` demo; WordPress + Bricks para webs comerciales; Next.js separado para la aplicación.
 - Arquitectura regional prevista: futuras landings comerciales mediante `/co/`, `/mx/` y `/cl/`; `ayuda.inmobia360.com` queda reservado para documentación y soporte.
+- Principio de dominios aprobado: `inmobia360.com` será la landing institucional de presentación del negocio; los subdominios se reservarán para aplicación, demo, ayuda y futuras funciones globales validadas.
 - Skill directora construida: `latam-real-estate` versión `0.1.0`, con flujo ejecutivo, enrutamiento, derechos de decisión, puertas de calidad, admisión de externas y plantillas.
 - Skills especialistas previstas: `inmobia360-product-architecture`, `inmobia360-real-estate-data`, `inmobia360-security-privacy`, `inmobia360-country-landing`, `inmobia360-wordpress-bricks` e `inmobia360-release-guard`.
+- La identidad corporativa cuenta con un manual maestro externo incorporado como referencia operativa en `docs/brand/BRAND-CONTEXT.md`.
+- La dirección de producto contempla ahora espacio privado del agente, páginas públicas de propiedades, asistente guiado, Red Profesional y directorio/reputación como evoluciones.
 
 ## No confirmado todavía
 
-Siguen pendientes de validación: precios, segmentos detallados, KPIs numéricos, fechas del roadmap, arquitectura técnica interna, modelo de datos completo, requisitos legales por país, copy final de landings, pruebas independientes de comportamiento y diseño de las skills especialistas.
+Siguen pendientes de validación: precios y margen, segmentos detallados, KPIs numéricos, fechas del roadmap, arquitectura técnica interna, modelo de datos completo, requisitos legales por país, reputación y ranking, marca blanca, responsabilidades hasta escritura, copy final de landings, pruebas independientes de comportamiento y diseño de las skills especialistas.
 
 ## Hipótesis de trabajo
 
@@ -31,3 +34,18 @@ Siguen pendientes de validación: precios, segmentos detallados, KPIs numéricos
 - La separación entre webs comerciales y aplicación SaaS permitirá evolucionar cada superficie de forma independiente.
 
 Estas hipótesis no sustituyen validación de usuarios, mercado, legalidad ni viabilidad técnica.
+
+## Recursos de infraestructura informados por Juan
+
+- Suscripción VPS Hostinger: KVM 2; identificador privado omitido de la documentación versionada.
+- Dominio Hostinger: `inmobia360.com`.
+- Suscripción `Starter Business Email Trial` asociada a `compracaptacion.com`; queda fuera del alcance actual de Inmobia360 LATAM.
+
+Estos datos son un inventario informado. No implican autorización para acceder, configurar, modificar DNS o desplegar.
+
+## Dirección técnica prevista para IA
+
+- El VPS KVM 2 se evaluará como capa de orquestación de IA, automatizaciones y agentes internos.
+- El modelo de IA se considera inicialmente un servicio cloud separado.
+- El proveedor, modelo, permisos, costes y datos permitidos siguen pendientes de validación.
+- El modelo de datos inmobiliarios cuenta con un diseño conceptual inicial; no existen tablas ni migraciones implementadas.

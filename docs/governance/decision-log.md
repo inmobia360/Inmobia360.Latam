@@ -96,3 +96,77 @@ Todas las decisiones de esta versión están fechadas el 2026-08-27.
 - Fecha: 2026-08-27.
 - Decisión: utilizar `inmobia360.com/pe/` como ruta oficial de la landing comercial del mercado piloto de Perú. La ruta anterior `inmobia360.com/peru/` queda descartada.
 - Evidencia: confirmación explícita de Juan.
+
+## D-016 — Inicio de preparación de Fase 2
+
+- Estado: aprobada para preparación documental.
+- Fecha: 2026-08-27.
+- Decisión: preparar la arquitectura de despliegue, matriz de entornos, política de Git/releases y controles de secretos/rollback antes de conectar Hostinger o comenzar el desarrollo.
+- Restricciones: no instalar dependencias, no conectar servicios externos, no desplegar y no utilizar datos personales reales.
+- Evidencia: instrucción de Juan de proceder con el siguiente paso recomendado.
+
+## D-017 — Arquitectura de dominios y subdominios
+
+- Estado: aprobada.
+- Fecha: 2026-08-27.
+- Decisión: utilizar `inmobia360.com` como landing institucional de presentación del negocio; mantener las landings comerciales por país en subdirectorios; reservar subdominios como `app.inmobia360.com`, `demo.inmobia360.com` y `ayuda.inmobia360.com` para aplicación, demostración y soporte global.
+- Regla: cualquier subdominio nuevo deberá tener una función concreta, validada y documentada antes de crearse.
+- Evidencia: confirmación explícita de Juan.
+
+## D-018 — Preparación del destino de alojamiento
+
+- Estado: aprobada para preparación documental.
+- Fecha: 2026-08-27.
+- Decisión: definir el destino técnico de cada dominio y subdominio antes de conectar Hostinger, modificar DNS, adquirir servicios o desplegar.
+- Restricciones: no realizar compras, cambios DNS, conexiones externas ni despliegues durante esta preparación.
+- Evidencia: instrucción de Juan de proseguir con el siguiente paso recomendado.
+
+## D-019 — Inventario inicial de Hostinger
+
+- Estado: registrado; destino técnico pendiente de decisión.
+- Fecha: 2026-08-27.
+- Decisión: registrar como recurso disponible el VPS KVM 2 de Hostinger y el dominio `inmobia360.com`; el identificador técnico del VPS se conserva fuera de la documentación versionada. El email trial asociado a `compracaptacion.com` queda fuera del alcance de Inmobia360 LATAM.
+- Restricciones: no acceder, configurar, modificar DNS, desplegar ni utilizar el VPS hasta completar la evaluación técnica y obtener autorización específica.
+- Evidencia: información proporcionada explícitamente por Juan.
+
+## D-020 — VPS como capa de orquestación de IA
+
+- Estado: aprobada para diseño; implementación pendiente.
+- Fecha: 2026-08-27.
+- Decisión: evaluar el VPS KVM 2 como capa para orquestar agentes, subagentes, automatizaciones y acciones de IA, manteniendo inicialmente el modelo de IA como servicio cloud separado.
+- Restricciones: no instalar modelos, runtimes ni automatizadores; no conectar servicios; no procesar datos personales reales; no ejecutar acciones irreversibles sin aprobación humana.
+- Evidencia: instrucción explícita de Juan sobre el uso previsto del VPS.
+
+## D-021 — Evaluación controlada de IA
+
+- Estado: aprobada para diseño; proveedor e implementación pendientes.
+- Fecha: 2026-08-27.
+- Decisión: seleccionar el modelo y proveedor de IA mediante criterios documentados de seguridad, privacidad, coste, capacidad, portabilidad y operación. La primera fase se limitará a tareas no destructivas con datos sintéticos.
+- Restricciones: no conectar proveedores, no enviar datos personales reales, no permitir cambios DNS, compras, mensajes externos ni acciones de producción automáticas.
+- Evidencia: aplicación del flujo de decisión de `latam-real-estate` y autorización de Juan para proseguir.
+
+## D-022 — Blueprint técnico inicial del MVP
+
+- Estado: aprobado para diseño; implementación pendiente.
+- Fecha: 2026-08-27.
+- Decisión: estructurar funcional y técnicamente el MVP Perú antes de programar, manteniendo Lima como piloto, WhatsApp como canal prioritario y datos sintéticos.
+- Restricciones: no iniciar desarrollo, no conectar IA, no activar integraciones externas ni ampliar el alcance aprobado.
+- Evidencia: instrucción de Juan de proseguir con la estructura del proyecto.
+
+## D-023 — Diseño conceptual del modelo de datos
+
+- Estado: aprobado para diseño; implementación pendiente.
+- Fecha: 2026-08-27.
+- Decisión: estructurar entidades candidatas para leads, perfiles, propiedades, demandas, actividades, matches y eventos de canal, utilizando identificadores internos, datos sintéticos y trazabilidad.
+- Restricciones: no crear tablas, migraciones ni operar con datos personales reales hasta validar campos, permisos, retención y requisitos legales.
+- Evidencia: instrucción de Juan de proseguir con la estructura del proyecto.
+
+## D-024 — Dirección de producto y contexto de marca
+
+- Estado: aprobada para diseño; implementación, activación de subdominios y modelo comercial pendientes.
+- Fecha: 2026-08-27.
+- Decisión: orientar la evolución hacia una plataforma PropTech guiada para agentes y pequeñas agencias, con espacio privado, páginas públicas de propiedades, asistente de productividad, Red Profesional regional y futuro directorio de agentes con reputación verificable.
+- Decisión de marca: mantener `inmobia360.com` como dominio principal y usar la identidad del manual maestro como referencia común; “Red Profesional” sustituye a “MLS” como denominación de producto.
+- Alcance futuro: contemplar configuración por país, staff local, marca blanca y acompañamiento de operaciones hasta hitos de cierre, sujetos a validación legal, operativa y comercial por país.
+- Restricciones: no activar ranking, pagos, comisiones, marca blanca, subdominios nacionales o acompañamiento regulado hasta definir metodología, responsabilidades, costes, permisos y aprobación específica.
+- Evidencia: instrucción explícita de Juan y manual maestro de identidad corporativa proporcionado para contexto.

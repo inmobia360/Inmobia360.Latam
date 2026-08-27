@@ -15,3 +15,10 @@ Fecha de revisión: 2026-08-27.
 | R-009 | Popularidad de una skill interpretada como garantía de seguridad | Abierto | Aplicar la política de admisión; popularidad es solo un filtro inicial. |
 | R-010 | Auditorías externas incompletas o desactualizadas | Abierto | Bloquear admisión sin revisión local, commit fijado y reevaluación por cambios. |
 | R-011 | Skill externa con instrucciones o scripts peligrosos | Abierto | Leer el árbol completo y probar en aislamiento sin credenciales ni red innecesaria. |
+| R-012 | Agente de IA con permisos excesivos | Abierto | Aplicar niveles de acción, mínimo privilegio, trazabilidad y aprobación humana. |
+| R-013 | Coste o uso imprevisible de modelos cloud | Abierto | Seleccionar con límites de consumo, presupuesto, alertas y apagado manual. |
+| R-014 | Envío de datos sensibles a un proveedor de IA | Abierto | Usar datos sintéticos, minimizar información y revisar retención y jurisdicción antes de integrar. |
+| R-015 | Ranking o reputación manipulable o injusto | Abierto | Usar interacciones verificables, metodología explicable, muestra mínima, moderación, derecho de respuesta y separar promoción pagada. |
+| R-016 | Confusión entre herramienta tecnológica y servicio inmobiliario o regulado | Abierto | Definir responsabilidades, partners autorizados y límites por país antes de acompañar operaciones hasta escritura. |
+| R-017 | Complejidad prematura por escala regional y marca blanca | Abierto | Validar primero el flujo individual en Lima y diseñar un núcleo común con adaptadores por país. |
+| R-018 | Identidad corporativa aplicada sin activos maestros o QA | Abierto | Usar el manual como referencia, custodiar maestros y validar accesibilidad, rendimiento, contenido y aprobación de marca. |

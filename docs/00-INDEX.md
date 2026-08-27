@@ -2,6 +2,8 @@
 
 ## Gobierno
 
+- [Contexto de identidad corporativa](brand/BRAND-CONTEXT.md)
+
 - [Estado actual](CURRENT-STATE.md)
 - [Project charter](governance/project-charter.md)
 - [Objetivos y KPIs](governance/objectives-and-kpis.md)
@@ -9,6 +11,15 @@
 - [Registro de decisiones](governance/decision-log.md)
 - [Registro de riesgos](governance/risk-register.md)
 - [Seguridad y privacidad](governance/SECURITY-PRIVACY.md)
+- [Arquitectura de despliegue](governance/deployment-architecture.md)
+- [Matriz de entornos](governance/environment-matrix.md)
+- [Política de Git y releases](governance/git-release-policy.md)
+- [Secretos y rollback](governance/secrets-and-rollback.md)
+- [Matriz de destino de alojamiento](governance/hosting-target-matrix.md)
+- [Arquitectura de orquestación de IA](governance/ai-orchestration-architecture.md)
+- [Mapa de estructura del proyecto](governance/project-structure.md)
+- [Criterios de selección de IA](governance/ai-provider-selection.md)
+- [Permisos de acciones de IA](governance/ai-action-permissions.md)
 
 ## Producto y negocio
 
@@ -16,6 +27,7 @@
 - [Modelo de negocio](product/BUSINESS-MODEL.md)
 - [Arquitectura del producto](product/PRODUCT-ARCHITECTURE.md)
 - [MVP Perú](product/MVP-PERU.md)
+- [Blueprint técnico MVP Perú](product/MVP-TECHNICAL-BLUEPRINT.md)
 - [Landing LATAM](product/LANDING-LATAM.md)
 - [Landing Perú](product/LANDING-PERU.md)
 - [Objetivos y KPIs](product/OBJECTIVES-KPIS.md)
