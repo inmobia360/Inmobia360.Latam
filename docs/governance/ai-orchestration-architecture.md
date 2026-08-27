@@ -46,3 +46,4 @@ WordPress / aplicación / canales autorizados
 - Política de datos, retención y anonimización.
 - Presupuesto y límites de consumo.
 - Estrategia de backups, monitorización y rollback.
+
