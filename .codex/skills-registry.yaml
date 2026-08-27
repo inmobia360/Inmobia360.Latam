@@ -1,0 +1,56 @@
+project: inmobia360-latam
+responsible_identity: Inmobia-360
+owner: Juan
+executive_skill: latam-real-estate
+communication_interface: latam-real-estate
+skill_location: .agents/skills
+
+allowed_statuses:
+  - planned
+  - in-development
+  - testing
+  - approved
+  - deprecated
+  - blocked
+
+owned_skills:
+  - name: latam-real-estate
+    status: in-development
+    version: 0.1.0
+    priority: 1
+    purpose: Dirección ejecutiva, coordinación, decisiones, riesgos y calidad
+
+  - name: inmobia360-product-architecture
+    status: planned
+    priority: 2
+    purpose: Arquitectura funcional y técnica
+
+  - name: inmobia360-real-estate-data
+    status: planned
+    priority: 3
+    purpose: Modelo de datos inmobiliarios y matching
+
+  - name: inmobia360-security-privacy
+    status: planned
+    priority: 4
+    purpose: Seguridad y privacidad multipaís
+
+  - name: inmobia360-country-landing
+    status: planned
+    priority: 5
+    purpose: Landings regionales y nacionales
+
+  - name: inmobia360-wordpress-bricks
+    status: planned
+    priority: 6
+    purpose: Webs comerciales WordPress + Bricks
+
+  - name: inmobia360-release-guard
+    status: planned
+    priority: 7
+    purpose: Control de entregas, staging, rollback y producción
+
+external_skills:
+  admission_policy: .agents/skills/latam-real-estate/references/external-skill-admission.md
+  registry: .codex/vendor-lock.yaml
+  installation_allowed: false
