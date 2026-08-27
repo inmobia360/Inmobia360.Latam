@@ -11,6 +11,7 @@ Activar solo los perfiles necesarios:
 | Datos inmobiliarios | Property, Listing, Lead, Demand, matching y duplicados | Arquitectura / seguridad |
 | Legal y privacidad | Normativa, contratos, consentimiento y transferencias | Juan |
 | Marketing y crecimiento | Landings, posicionamiento, SEO y métricas | Producto |
+| Diseño gráfico y publicidad | Sistema visual, piezas online/offline, campañas, plantillas y personalización para agentes | Marca / Producto / Seguridad y calidad |
 | Seguridad y calidad | Amenazas, pruebas, dependencias, release y rollback | Juan / revisión independiente |
 
 ## Reglas

@@ -1,0 +1,6 @@
+interface:
+  display_name: "Diseño gráfico y publicidad inmobiliaria"
+  short_description: "Diseña campañas y piezas de marketing online y offline para agentes"
+  default_prompt: "Diseña el sistema de campañas, plantillas y piezas online/offline de Inmobia360 para agentes, usando perfiles sintéticos y entregando especificaciones verificables a latam-real-estate."
+policy:
+  allow_implicit_invocation: false
