@@ -128,3 +128,11 @@ Todas las decisiones de esta versión están fechadas el 2026-08-27.
 - Decisión: evaluar el VPS KVM 2 como capa para orquestar agentes, subagentes, automatizaciones y acciones de IA, manteniendo inicialmente el modelo de IA como servicio cloud separado.
 - Restricciones: no instalar modelos, runtimes ni automatizadores; no conectar servicios; no procesar datos personales reales; no ejecutar acciones irreversibles sin aprobación humana.
 - Evidencia: instrucción explícita de Juan sobre el uso previsto del VPS.
+
+## D-021 — Evaluación controlada de IA
+
+- Estado: aprobada para diseño; proveedor e implementación pendientes.
+- Fecha: 2026-08-27.
+- Decisión: seleccionar el modelo y proveedor de IA mediante criterios documentados de seguridad, privacidad, coste, capacidad, portabilidad y operación. La primera fase se limitará a tareas no destructivas con datos sintéticos.
+- Restricciones: no conectar proveedores, no enviar datos personales reales, no permitir cambios DNS, compras, mensajes externos ni acciones de producción automáticas.
+- Evidencia: aplicación del flujo de decisión de `latam-real-estate` y autorización de Juan para proseguir.
