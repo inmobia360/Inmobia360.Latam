@@ -121,6 +121,14 @@ Todas las decisiones de esta versión están fechadas el 2026-08-27.
 - Restricciones: no realizar compras, cambios DNS, conexiones externas ni despliegues durante esta preparación.
 - Evidencia: instrucción de Juan de proseguir con el siguiente paso recomendado.
 
+## D-019 — Inventario inicial de Hostinger
+
+- Estado: registrado; destino técnico pendiente de decisión.
+- Fecha: 2026-08-27.
+- Decisión: registrar como recurso disponible el VPS KVM 2 de Hostinger y el dominio `inmobia360.com`; el identificador técnico del VPS se conserva fuera de la documentación versionada. El email trial asociado a `compracaptacion.com` queda fuera del alcance de Inmobia360 LATAM.
+- Restricciones: no acceder, configurar, modificar DNS, desplegar ni utilizar el VPS hasta completar la evaluación técnica y obtener autorización específica.
+- Evidencia: información proporcionada explícitamente por Juan.
+
 ## D-020 — VPS como capa de orquestación de IA
 
 - Estado: aprobada para diseño; implementación pendiente.
@@ -152,3 +160,4 @@ Todas las decisiones de esta versión están fechadas el 2026-08-27.
 - Decisión: estructurar entidades candidatas para leads, perfiles, propiedades, demandas, actividades, matches y eventos de canal, utilizando identificadores internos, datos sintéticos y trazabilidad.
 - Restricciones: no crear tablas, migraciones ni operar con datos personales reales hasta validar campos, permisos, retención y requisitos legales.
 - Evidencia: instrucción de Juan de proseguir con la estructura del proyecto.
+
