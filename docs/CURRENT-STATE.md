@@ -38,3 +38,10 @@ Estas hipótesis no sustituyen validación de usuarios, mercado, legalidad ni vi
 - El VPS KVM 2 se evaluará como capa de orquestación de IA, automatizaciones y agentes internos.
 - El modelo de IA se considera inicialmente un servicio cloud separado.
 - El proveedor, modelo, permisos, costes y datos permitidos siguen pendientes de validación.
+
+## Dirección técnica prevista para IA
+
+- El VPS KVM 2 se evaluará como capa de orquestación de IA, automatizaciones y agentes internos.
+- El modelo de IA se considera inicialmente un servicio cloud separado.
+- El proveedor, modelo, permisos, costes y datos permitidos siguen pendientes de validación.
+- El modelo de datos inmobiliarios cuenta con un diseño conceptual inicial; no existen tablas ni migraciones implementadas.
