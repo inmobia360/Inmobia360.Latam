@@ -15,6 +15,7 @@
 - [Secretos y rollback](governance/secrets-and-rollback.md)
 - [Matriz de destino de alojamiento](governance/hosting-target-matrix.md)
 - [Arquitectura de orquestación de IA](governance/ai-orchestration-architecture.md)
+- [Mapa de estructura del proyecto](governance/project-structure.md)
 - [Criterios de selección de IA](governance/ai-provider-selection.md)
 - [Permisos de acciones de IA](governance/ai-action-permissions.md)
 
