@@ -38,4 +38,3 @@ El KVM 2 podría alojar componentes técnicos separados de WordPress, como la ap
 ## Puerta de autorización
 
 No se conectará Hostinger hasta que exista una decisión explícita sobre el destino técnico, el coste, los permisos necesarios y el procedimiento de reversión. No se realizarán compras ni cambios DNS como parte de esta preparación.
-

@@ -26,4 +26,3 @@ Antes de cada publicación se debe conservar:
 - No hay credenciales de despliegue configuradas.
 - No se ha confirmado el producto Hostinger que alojará cada superficie.
 - No se autoriza todavía ninguna compra, conexión externa o despliegue.
-

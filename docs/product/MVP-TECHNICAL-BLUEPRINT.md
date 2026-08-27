@@ -15,6 +15,8 @@ Definir la primera estructura funcional y técnica para validar el MVP en Lima, 
 5. Gestión básica de demandas.
 6. Matching inicial entre demandas y propiedades.
 7. Bandeja o registro de conversaciones de WhatsApp, sin automatización avanzada.
+8. Creación de una página pública asociada al agente y sus propiedades.
+9. Asistente guiado contextual para completar datos y orientar la siguiente acción.
 
 Son módulos candidatos derivados del alcance aprobado; el orden y profundidad deben validarse.
 
@@ -25,6 +27,7 @@ Son módulos candidatos derivados del alcance aprobado; el orden y profundidad d
 - Demo: experiencia aislada con datos sintéticos.
 - API: contrato pendiente entre web, aplicación y servicios autorizados.
 - VPS: candidato para servicios técnicos y orquestación futura; no se implementa todavía.
+- Directorio público de agentes y Red Profesional: superficies futuras, no parte del primer flujo técnico.
 
 ## Entidades candidatas
 
@@ -35,6 +38,8 @@ Son módulos candidatos derivados del alcance aprobado; el orden y profundidad d
 - Actividad o seguimiento.
 - Match.
 - Conversación o evento de canal.
+- Perfil público de agente.
+- Actividad guiada del asistente.
 
 Los campos, relaciones, estados, permisos, auditoría y reglas de deduplicación quedan pendientes de diseño de datos.
 
@@ -59,7 +64,7 @@ Los campos, relaciones, estados, permisos, auditoría y reglas de deduplicación
 ## Fuera de alcance
 
 - Pagos reales.
-- MLS regional.
+- Red Profesional regional completa.
 - Expansión a otros países.
 - Automatizaciones avanzadas.
 - Integraciones costosas.
@@ -75,4 +80,5 @@ Los campos, relaciones, estados, permisos, auditoría y reglas de deduplicación
 - Canal WhatsApp y nivel de integración.
 - KPIs y umbrales de éxito.
 - Requisitos legales y de privacidad aplicables.
-
+- Reglas de reputación, opiniones verificadas y ranking público.
+- Modelo de colaboración regional y responsabilidades hasta hitos de cierre.

@@ -62,6 +62,18 @@ Campos candidatos: identificador, canal, tipo de evento, referencia sintética, 
 
 El contenido completo de conversaciones requiere una decisión específica de privacidad y retención.
 
+### Perfil público de agente
+
+Representa la presencia pública de un profesional, con cobertura, especialización, estado de verificación y métricas que puedan mostrarse de forma comprensible. La experiencia y el rendimiento deben distinguirse de la información declarada.
+
+### Reputación y opinión
+
+Representa una valoración vinculada a una interacción verificable. Debe conservar origen, tipo de relación, fecha, estado de moderación y derecho de respuesta. No se debe publicar un ranking sin definir muestra mínima, metodología, reclamación y prevención de manipulación.
+
+### Colaboración y acceso
+
+Representa la solicitud entre profesionales, sus condiciones, estado, información liberada y trazabilidad de accesos.
+
 ## Relaciones conceptuales
 
 ```text
@@ -70,6 +82,8 @@ Perfil ──< Lead >── Propiedad
 Demanda ──< Match >── Propiedad
 Lead / Demanda / Propiedad ──< Actividad
 Lead / Perfil ──< Evento de canal
+Perfil ──< Opinión / Reputación
+Propiedad / Demanda ──< Colaboración ──< Acceso
 ```
 
 ## Estados mínimos candidatos
@@ -78,6 +92,7 @@ Lead / Perfil ──< Evento de canal
 - Propiedad: borrador, disponible, reservada, no disponible, archivada.
 - Demanda: borrador, activa, pausada, atendida, archivada.
 - Match: propuesto, revisado, aceptado, rechazado, vencido.
+- Colaboración: solicitada, en revisión, aceptada, activa, completada, rechazada, cancelada.
 
 Los valores finales deben validarse con el proceso comercial de Lima.
 
@@ -97,4 +112,6 @@ Los valores finales deben validarse con el proceso comercial de Lima.
 - Política de retención y consentimiento.
 - Geografía y normalización de zonas de Lima.
 - Tecnología de persistencia y migraciones.
-
+- Modelo de organización/agencia y visibilidad pública.
+- Verificación de opiniones y metodología de reputación.
+- Campos de país y adaptadores regionales.
