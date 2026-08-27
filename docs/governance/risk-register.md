@@ -18,3 +18,4 @@ Fecha de revisión: 2026-08-27.
 | R-012 | Agente de IA con permisos excesivos | Abierto | Aplicar niveles de acción, mínimo privilegio, trazabilidad y aprobación humana. |
 | R-013 | Coste o uso imprevisible de modelos cloud | Abierto | Seleccionar con límites de consumo, presupuesto, alertas y apagado manual. |
 | R-014 | Envío de datos sensibles a un proveedor de IA | Abierto | Usar datos sintéticos, minimizar información y revisar retención y jurisdicción antes de integrar. |
+
