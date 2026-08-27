@@ -25,3 +25,4 @@ Estado: marco de control. No autoriza ejecuciones.
 ## Primera fase propuesta
 
 Limitar la IA a lectura de documentación del proyecto, clasificación de información sintética, generación de borradores y recomendaciones. No se habilitarán mensajes externos, cambios de infraestructura, compras, DNS ni producción.
+
