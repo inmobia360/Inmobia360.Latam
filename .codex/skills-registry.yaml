@@ -20,34 +20,40 @@ owned_skills:
     priority: 1
     purpose: Dirección ejecutiva, coordinación, decisiones, riesgos y calidad
 
+  - name: inmobia360-country-market-researcher
+    status: in-development
+    version: 0.1.0
+    priority: 2
+    purpose: Investigación por país, puntos de dolor, herramientas, competencia y localización inmobiliaria
+
   - name: inmobia360-product-architecture
     status: planned
-    priority: 2
+    priority: 3
     purpose: Arquitectura funcional y técnica
 
   - name: inmobia360-real-estate-data
     status: planned
-    priority: 3
+    priority: 4
     purpose: Modelo de datos inmobiliarios y matching
 
   - name: inmobia360-security-privacy
     status: planned
-    priority: 4
+    priority: 5
     purpose: Seguridad y privacidad multipaís
 
   - name: inmobia360-country-landing
     status: planned
-    priority: 5
+    priority: 6
     purpose: Landings regionales y nacionales
 
   - name: inmobia360-wordpress-bricks
     status: planned
-    priority: 6
+    priority: 7
     purpose: Webs comerciales WordPress + Bricks
 
   - name: inmobia360-release-guard
     status: planned
-    priority: 7
+    priority: 8
     purpose: Control de entregas, staging, rollback y producción
 
 external_skills:

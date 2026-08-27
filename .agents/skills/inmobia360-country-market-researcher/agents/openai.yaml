@@ -1,0 +1,6 @@
+interface:
+  display_name: "Investigación inmobiliaria por país"
+  short_description: "Valida mercado, herramientas y puntos de dolor locales"
+  default_prompt: "Analiza el país y ciudad indicados para Inmobia360 LATAM, separa hechos de hipótesis, documenta fuentes y entrega el informe a la skill directora."
+policy:
+  allow_implicit_invocation: false
