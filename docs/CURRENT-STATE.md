@@ -17,6 +17,7 @@ La carpeta estaba vacía antes de esta migración. No existían archivos, direct
 - MVP aprobado: captación y centralización de leads; calificación de compradores y propietarios; seguimiento comercial; gestión básica de propiedades y demandas; matching básico; WhatsApp como canal prioritario para Perú.
 - Arquitectura aprobada: `inmobia360.com` institucional LATAM; `inmobia360.com/pe/` landing comercial Perú; `app.inmobia360.com` aplicación SaaS; `demo.inmobia360.com` demo; WordPress + Bricks para webs comerciales; Next.js separado para la aplicación.
 - Arquitectura regional prevista: futuras landings comerciales mediante `/co/`, `/mx/` y `/cl/`; `ayuda.inmobia360.com` queda reservado para documentación y soporte.
+- Principio de dominios aprobado: `inmobia360.com` será la landing institucional de presentación del negocio; los subdominios se reservarán para aplicación, demo, ayuda y futuras funciones globales validadas.
 - Skill directora construida: `latam-real-estate` versión `0.1.0`, con flujo ejecutivo, enrutamiento, derechos de decisión, puertas de calidad, admisión de externas y plantillas.
 - Skills especialistas previstas: `inmobia360-product-architecture`, `inmobia360-real-estate-data`, `inmobia360-security-privacy`, `inmobia360-country-landing`, `inmobia360-wordpress-bricks` e `inmobia360-release-guard`.
 
