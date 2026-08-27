@@ -1,0 +1,7 @@
+version: 1
+policy: .agents/skills/latam-real-estate/references/external-skill-admission.md
+approved_skills: []
+pending_review: []
+
+# No hay skills externas aprobadas. Cada entrada futura debe incluir fuente,
+# commit/hash, auditorías, revisión de archivos, alcance permitido y aprobación.

@@ -1,0 +1,6 @@
+interface:
+  display_name: "LATAM Real Estate"
+  short_description: "Dirección ejecutiva de Inmobia360 LATAM"
+  default_prompt: "Usa $latam-real-estate para analizar esta iniciativa, coordinar los especialistas necesarios y entregar decisiones, riesgos y siguiente paso verificable."
+policy:
+  allow_implicit_invocation: true
