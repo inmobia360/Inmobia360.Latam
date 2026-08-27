@@ -33,11 +33,13 @@ Siguen pendientes de validación: precios, segmentos detallados, KPIs numéricos
 
 Estas hipótesis no sustituyen validación de usuarios, mercado, legalidad ni viabilidad técnica.
 
-## Dirección técnica prevista para IA
+## Recursos de infraestructura informados por Juan
 
-- El VPS KVM 2 se evaluará como capa de orquestación de IA, automatizaciones y agentes internos.
-- El modelo de IA se considera inicialmente un servicio cloud separado.
-- El proveedor, modelo, permisos, costes y datos permitidos siguen pendientes de validación.
+- Suscripción VPS Hostinger: KVM 2; identificador privado omitido de la documentación versionada.
+- Dominio Hostinger: `inmobia360.com`.
+- Suscripción `Starter Business Email Trial` asociada a `compracaptacion.com`; queda fuera del alcance actual de Inmobia360 LATAM.
+
+Estos datos son un inventario informado. No implican autorización para acceder, configurar, modificar DNS o desplegar.
 
 ## Dirección técnica prevista para IA
 
@@ -45,3 +47,4 @@ Estas hipótesis no sustituyen validación de usuarios, mercado, legalidad ni vi
 - El modelo de IA se considera inicialmente un servicio cloud separado.
 - El proveedor, modelo, permisos, costes y datos permitidos siguen pendientes de validación.
 - El modelo de datos inmobiliarios cuenta con un diseño conceptual inicial; no existen tablas ni migraciones implementadas.
+
