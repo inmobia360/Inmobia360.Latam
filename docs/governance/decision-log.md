@@ -96,3 +96,11 @@ Todas las decisiones de esta versión están fechadas el 2026-08-27.
 - Fecha: 2026-08-27.
 - Decisión: utilizar `inmobia360.com/pe/` como ruta oficial de la landing comercial del mercado piloto de Perú. La ruta anterior `inmobia360.com/peru/` queda descartada.
 - Evidencia: confirmación explícita de Juan.
+
+## D-016 — Inicio de preparación de Fase 2
+
+- Estado: aprobada para preparación documental.
+- Fecha: 2026-08-27.
+- Decisión: preparar la arquitectura de despliegue, matriz de entornos, política de Git/releases y controles de secretos/rollback antes de conectar Hostinger o comenzar el desarrollo.
+- Restricciones: no instalar dependencias, no conectar servicios externos, no desplegar y no utilizar datos personales reales.
+- Evidencia: instrucción de Juan de proceder con el siguiente paso recomendado.
