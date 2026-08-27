@@ -89,3 +89,10 @@ Todas las decisiones de esta versión están fechadas el 2026-08-27.
 - Fecha: 2026-08-27.
 - Decisión: Juan mantendrá comunicación activa únicamente con `latam-real-estate`; los perfiles especialistas trabajarán internamente y sus resultados serán consolidados por la skill directora.
 - Evidencia: instrucción explícita de Juan.
+
+## D-015 — Ruta de la landing comercial de Perú
+
+- Estado: aprobada.
+- Fecha: 2026-08-27.
+- Decisión: utilizar `inmobia360.com/pe/` como ruta oficial de la landing comercial del mercado piloto de Perú. La ruta anterior `inmobia360.com/peru/` queda descartada.
+- Evidencia: confirmación explícita de Juan.
