@@ -25,6 +25,7 @@
 - [Modelo de negocio](product/BUSINESS-MODEL.md)
 - [Arquitectura del producto](product/PRODUCT-ARCHITECTURE.md)
 - [MVP Perú](product/MVP-PERU.md)
+- [Blueprint técnico MVP Perú](product/MVP-TECHNICAL-BLUEPRINT.md)
 - [Landing LATAM](product/LANDING-LATAM.md)
 - [Landing Perú](product/LANDING-PERU.md)
 - [Objetivos y KPIs](product/OBJECTIVES-KPIS.md)
