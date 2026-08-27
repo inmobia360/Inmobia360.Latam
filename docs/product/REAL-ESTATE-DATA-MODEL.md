@@ -97,3 +97,4 @@ Los valores finales deben validarse con el proceso comercial de Lima.
 - Política de retención y consentimiento.
 - Geografía y normalización de zonas de Lima.
 - Tecnología de persistencia y migraciones.
+
