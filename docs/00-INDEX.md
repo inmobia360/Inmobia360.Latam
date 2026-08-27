@@ -13,6 +13,7 @@
 - [Matriz de entornos](governance/environment-matrix.md)
 - [Política de Git y releases](governance/git-release-policy.md)
 - [Secretos y rollback](governance/secrets-and-rollback.md)
+- [Matriz de destino de alojamiento](governance/hosting-target-matrix.md)
 
 ## Producto y negocio
 
