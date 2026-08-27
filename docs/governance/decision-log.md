@@ -104,3 +104,11 @@ Todas las decisiones de esta versión están fechadas el 2026-08-27.
 - Decisión: preparar la arquitectura de despliegue, matriz de entornos, política de Git/releases y controles de secretos/rollback antes de conectar Hostinger o comenzar el desarrollo.
 - Restricciones: no instalar dependencias, no conectar servicios externos, no desplegar y no utilizar datos personales reales.
 - Evidencia: instrucción de Juan de proceder con el siguiente paso recomendado.
+
+## D-017 — Arquitectura de dominios y subdominios
+
+- Estado: aprobada.
+- Fecha: 2026-08-27.
+- Decisión: utilizar `inmobia360.com` como landing institucional de presentación del negocio; mantener las landings comerciales por país en subdirectorios; reservar subdominios como `app.inmobia360.com`, `demo.inmobia360.com` y `ayuda.inmobia360.com` para aplicación, demostración y soporte global.
+- Regla: cualquier subdominio nuevo deberá tener una función concreta, validada y documentada antes de crearse.
+- Evidencia: confirmación explícita de Juan.
