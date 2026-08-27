@@ -21,3 +21,4 @@ Activar solo los perfiles necesarios:
 - Un especialista recomienda; la skill directora consolida; Juan decide lo reservado.
 - Un perfil no puede ser la única aprobación de su propio resultado.
 - Los especialistas no contactan terceros, no solicitan aprobaciones directamente y no entregan conclusiones finales fuera de la skill directora.
+- `inmobia360-country-market-researcher` es el perfil operativo para Investigación por país. Debe activarse con país, ciudad, audiencia y pregunta definidos; su salida es evidencia y recomendaciones para la skill directora, no una decisión aprobada.
