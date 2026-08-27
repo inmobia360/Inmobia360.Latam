@@ -23,12 +23,15 @@ Fecha de aprobación del marco: 2026-08-27.
 - Detallar usuarios, flujos, criterios de éxito, métricas y exclusiones.
 - Mantener Lima como piloto y WhatsApp como canal prioritario.
 - Trabajar sin datos personales reales.
+- Resolver la discrepancia entre skills creadas documentalmente, skills validadas y skills todavía planificadas.
+- Mantener marketing de rendimiento, análisis social y scraping de inteligencia de mercado fuera del alcance ejecutable hasta disponer de una decisión específica.
 
 ## Fase 3 — Diseño y construcción técnica
 
 - Estado: pendiente de aprobación.
 - Diseñar la aplicación Next.js, las webs WordPress + Bricks y los contratos de integración.
 - Definir modelo de datos, seguridad, pruebas y control de releases.
+- Definir, antes de cualquier integración publicitaria o social, consentimiento, atribución, permisos, límites de gasto y aprobación humana.
 
 ## Fase 4 — Validación piloto
 

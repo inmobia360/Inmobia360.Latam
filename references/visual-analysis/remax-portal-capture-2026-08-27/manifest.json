@@ -1,0 +1,380 @@
+{
+  "assets": [
+    {
+      "contentType": "",
+      "id": "d2fe092db16af22e",
+      "kind": "stylesheet",
+      "name": "entry.BQCxnV_l.css",
+      "path": "C:\\Users\\ernes\\AppData\\Local\\Temp/browser-use/assets/4a0f5064-d6f1-4663-9bed-64d042bdc053/d2fe092db16af22e.css",
+      "url": "https://remax.smbiotica.net/_nuxt/entry.BQCxnV_l.css"
+    },
+    {
+      "contentType": "",
+      "id": "ea013cce25e5fa8a",
+      "kind": "stylesheet",
+      "name": "common.DHaxP1MT.css",
+      "path": "C:\\Users\\ernes\\AppData\\Local\\Temp/browser-use/assets/4a0f5064-d6f1-4663-9bed-64d042bdc053/ea013cce25e5fa8a.css",
+      "url": "https://remax.smbiotica.net/_nuxt/common.DHaxP1MT.css"
+    },
+    {
+      "contentType": "text/css",
+      "id": "ace17b6f1e145823",
+      "kind": "stylesheet",
+      "name": "multi-select.BxwwW9qy.css",
+      "path": "C:\\Users\\ernes\\AppData\\Local\\Temp/browser-use/assets/4a0f5064-d6f1-4663-9bed-64d042bdc053/ace17b6f1e145823.css",
+      "url": "https://remax.smbiotica.net/_nuxt/multi-select.BxwwW9qy.css"
+    },
+    {
+      "contentType": "image/png",
+      "id": "93c16a34dee245ff",
+      "kind": "image",
+      "name": "logo.BGpIm9q2.png",
+      "path": "C:\\Users\\ernes\\AppData\\Local\\Temp/browser-use/assets/4a0f5064-d6f1-4663-9bed-64d042bdc053/93c16a34dee245ff.png",
+      "url": "https://remax.smbiotica.net/_nuxt/logo.BGpIm9q2.png"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "3c619d29d77fb42c",
+      "kind": "image",
+      "name": "icon-sprite.7F15unOj.svg",
+      "path": "C:\\Users\\ernes\\AppData\\Local\\Temp/browser-use/assets/4a0f5064-d6f1-4663-9bed-64d042bdc053/3c619d29d77fb42c.svg",
+      "url": "https://remax.smbiotica.net/_nuxt/icon-sprite.7F15unOj.svg"
+    },
+    {
+      "contentType": "text/css",
+      "id": "934d22d3fe7dfe50",
+      "kind": "stylesheet",
+      "name": "autolayout.LfANO0ON.css",
+      "path": "C:\\Users\\ernes\\AppData\\Local\\Temp/browser-use/assets/4a0f5064-d6f1-4663-9bed-64d042bdc053/934d22d3fe7dfe50.css",
+      "url": "https://remax.smbiotica.net/_nuxt/autolayout.LfANO0ON.css"
+    },
+    {
+      "contentType": "image/x-icon",
+      "id": "68400bde8b6c663f",
+      "kind": "image",
+      "name": "favicon.ico",
+      "path": "C:\\Users\\ernes\\AppData\\Local\\Temp/browser-use/assets/4a0f5064-d6f1-4663-9bed-64d042bdc053/68400bde8b6c663f.ico",
+      "url": "https://remax.smbiotica.net/favicon.ico"
+    },
+    {
+      "contentType": "image/png",
+      "id": "5d3b18de422310eb",
+      "kind": "image",
+      "name": "1768214994_img_Logo_REMAX_Espa%C3%B1a_RGB_AZUL.png",
+      "path": "C:\\Users\\ernes\\AppData\\Local\\Temp/browser-use/assets/4a0f5064-d6f1-4663-9bed-64d042bdc053/5d3b18de422310eb.png",
+      "url": "https://remax.smbiotica.net/network-media/networks/1768214994_img_Logo_REMAX_Espa%C3%B1a_RGB_AZUL.png"
+    },
+    {
+      "contentType": "image/png",
+      "id": "102c1820278d3487",
+      "kind": "image",
+      "name": "1768214994_miniature_ico.png",
+      "path": "C:\\Users\\ernes\\AppData\\Local\\Temp/browser-use/assets/4a0f5064-d6f1-4663-9bed-64d042bdc053/102c1820278d3487.png",
+      "url": "https://remax.smbiotica.net/network-media/networks/1768214994_miniature_ico.png"
+    },
+    {
+      "contentType": "font/woff2",
+      "id": "65d87f52492fc1b5",
+      "kind": "font",
+      "name": "bootstrap-icons.mSm7cUeB.woff2",
+      "path": "C:\\Users\\ernes\\AppData\\Local\\Temp/browser-use/assets/4a0f5064-d6f1-4663-9bed-64d042bdc053/65d87f52492fc1b5.woff2",
+      "url": "https://remax.smbiotica.net/_nuxt/bootstrap-icons.mSm7cUeB.woff2?e34853135f9e39acf64315236852cd5a"
+    },
+    {
+      "contentType": "font/woff2",
+      "id": "2160db6226e703ff",
+      "kind": "font",
+      "name": "fontawesome-webfont.B-jkhYfk.woff2",
+      "path": "C:\\Users\\ernes\\AppData\\Local\\Temp/browser-use/assets/4a0f5064-d6f1-4663-9bed-64d042bdc053/2160db6226e703ff.woff2",
+      "url": "https://remax.smbiotica.net/_nuxt/fontawesome-webfont.B-jkhYfk.woff2?v=4.7.0"
+    },
+    {
+      "contentType": "image/png",
+      "id": "6ddef3e30fe4fc54",
+      "kind": "image",
+      "name": "1768216800_white_img_Logo_REMAX_Espa%C3%B1a_RGB_CREMA.png",
+      "path": "C:\\Users\\ernes\\AppData\\Local\\Temp/browser-use/assets/4a0f5064-d6f1-4663-9bed-64d042bdc053/6ddef3e30fe4fc54.png",
+      "url": "https://remax.smbiotica.net/network-media/networks/1768216800_white_img_Logo_REMAX_Espa%C3%B1a_RGB_CREMA.png"
+    },
+    {
+      "contentType": "font/ttf",
+      "id": "af05117a909a7667",
+      "kind": "font",
+      "name": "icofont.DMgVcgNq.ttf",
+      "path": "C:\\Users\\ernes\\AppData\\Local\\Temp/browser-use/assets/4a0f5064-d6f1-4663-9bed-64d042bdc053/af05117a909a7667.ttf",
+      "url": "https://remax.smbiotica.net/_nuxt/icofont.DMgVcgNq.ttf?v=1.0.0-beta"
+    },
+    {
+      "contentType": "text/css",
+      "id": "fb0c821c54ef412e",
+      "kind": "stylesheet",
+      "name": "ai-dashboard-my-requests.Dbrl7IgQ.css",
+      "path": "C:\\Users\\ernes\\AppData\\Local\\Temp/browser-use/assets/4a0f5064-d6f1-4663-9bed-64d042bdc053/fb0c821c54ef412e.css",
+      "url": "https://remax.smbiotica.net/_nuxt/ai-dashboard-my-requests.Dbrl7IgQ.css"
+    },
+    {
+      "contentType": "text/css",
+      "id": "9abd24b7adb739c6",
+      "kind": "stylesheet",
+      "name": "agency-form-atomic-testimonials.D7Y1nrYZ.css",
+      "path": "C:\\Users\\ernes\\AppData\\Local\\Temp/browser-use/assets/4a0f5064-d6f1-4663-9bed-64d042bdc053/9abd24b7adb739c6.css",
+      "url": "https://remax.smbiotica.net/_nuxt/agency-form-atomic-testimonials.D7Y1nrYZ.css"
+    },
+    {
+      "contentType": "text/css",
+      "id": "c4e42486b1ad66cf",
+      "kind": "stylesheet",
+      "name": "tutorials-administration.UDeR8sCE.css",
+      "path": "C:\\Users\\ernes\\AppData\\Local\\Temp/browser-use/assets/4a0f5064-d6f1-4663-9bed-64d042bdc053/c4e42486b1ad66cf.css",
+      "url": "https://remax.smbiotica.net/_nuxt/tutorials-administration.UDeR8sCE.css"
+    },
+    {
+      "contentType": "text/css",
+      "id": "f941f5a35b567b37",
+      "kind": "stylesheet",
+      "name": "datos.vb6jg8qs.css",
+      "path": "C:\\Users\\ernes\\AppData\\Local\\Temp/browser-use/assets/4a0f5064-d6f1-4663-9bed-64d042bdc053/f941f5a35b567b37.css",
+      "url": "https://remax.smbiotica.net/_nuxt/datos.vb6jg8qs.css"
+    },
+    {
+      "contentType": "text/css",
+      "id": "a063ca79871cd470",
+      "kind": "stylesheet",
+      "name": "tutorials.E_CDv89H.css",
+      "path": "C:\\Users\\ernes\\AppData\\Local\\Temp/browser-use/assets/4a0f5064-d6f1-4663-9bed-64d042bdc053/a063ca79871cd470.css",
+      "url": "https://remax.smbiotica.net/_nuxt/tutorials.E_CDv89H.css"
+    },
+    {
+      "contentType": "text/css",
+      "id": "203f6a30df3e7e58",
+      "kind": "stylesheet",
+      "name": "favorites.CHDQdOSi.css",
+      "path": "C:\\Users\\ernes\\AppData\\Local\\Temp/browser-use/assets/4a0f5064-d6f1-4663-9bed-64d042bdc053/203f6a30df3e7e58.css",
+      "url": "https://remax.smbiotica.net/_nuxt/favorites.CHDQdOSi.css"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "27461affd4b07cad",
+      "kind": "image",
+      "name": "svg-1",
+      "path": "C:\\Users\\ernes\\AppData\\Local\\Temp/browser-use/assets/4a0f5064-d6f1-4663-9bed-64d042bdc053/27461affd4b07cad.svg",
+      "url": "inline-svg:27461affd4b07cad"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "940d6e825c24c889",
+      "kind": "image",
+      "name": "svg-2",
+      "path": "C:\\Users\\ernes\\AppData\\Local\\Temp/browser-use/assets/4a0f5064-d6f1-4663-9bed-64d042bdc053/940d6e825c24c889.svg",
+      "url": "inline-svg:940d6e825c24c889"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "dc67cbde9ea6238a",
+      "kind": "image",
+      "name": "svg-3",
+      "path": "C:\\Users\\ernes\\AppData\\Local\\Temp/browser-use/assets/4a0f5064-d6f1-4663-9bed-64d042bdc053/dc67cbde9ea6238a.svg",
+      "url": "inline-svg:dc67cbde9ea6238a"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "8472b54d7669e4fe",
+      "kind": "image",
+      "name": "svg-4",
+      "path": "C:\\Users\\ernes\\AppData\\Local\\Temp/browser-use/assets/4a0f5064-d6f1-4663-9bed-64d042bdc053/8472b54d7669e4fe.svg",
+      "url": "inline-svg:8472b54d7669e4fe"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "59e94250514e9398",
+      "kind": "image",
+      "name": "svg-5",
+      "path": "C:\\Users\\ernes\\AppData\\Local\\Temp/browser-use/assets/4a0f5064-d6f1-4663-9bed-64d042bdc053/59e94250514e9398.svg",
+      "url": "inline-svg:59e94250514e9398"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "9fc6adccbb61bd8d",
+      "kind": "image",
+      "name": "svg-6",
+      "path": "C:\\Users\\ernes\\AppData\\Local\\Temp/browser-use/assets/4a0f5064-d6f1-4663-9bed-64d042bdc053/9fc6adccbb61bd8d.svg",
+      "url": "inline-svg:9fc6adccbb61bd8d"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "851e48c6dd38f64b",
+      "kind": "image",
+      "name": "svg-7",
+      "path": "C:\\Users\\ernes\\AppData\\Local\\Temp/browser-use/assets/4a0f5064-d6f1-4663-9bed-64d042bdc053/851e48c6dd38f64b.svg",
+      "url": "inline-svg:851e48c6dd38f64b"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "38ecee4ebd6bd943",
+      "kind": "image",
+      "name": "svg-8",
+      "path": "C:\\Users\\ernes\\AppData\\Local\\Temp/browser-use/assets/4a0f5064-d6f1-4663-9bed-64d042bdc053/38ecee4ebd6bd943.svg",
+      "url": "inline-svg:38ecee4ebd6bd943"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "0345f0dbfce117c4",
+      "kind": "image",
+      "name": "svg-9",
+      "path": "C:\\Users\\ernes\\AppData\\Local\\Temp/browser-use/assets/4a0f5064-d6f1-4663-9bed-64d042bdc053/0345f0dbfce117c4.svg",
+      "url": "inline-svg:0345f0dbfce117c4"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "e4c3b19fe03e77d0",
+      "kind": "image",
+      "name": "svg-10",
+      "path": "C:\\Users\\ernes\\AppData\\Local\\Temp/browser-use/assets/4a0f5064-d6f1-4663-9bed-64d042bdc053/e4c3b19fe03e77d0.svg",
+      "url": "inline-svg:e4c3b19fe03e77d0"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "0603e19b4b9cf503",
+      "kind": "image",
+      "name": "svg-11",
+      "path": "C:\\Users\\ernes\\AppData\\Local\\Temp/browser-use/assets/4a0f5064-d6f1-4663-9bed-64d042bdc053/0603e19b4b9cf503.svg",
+      "url": "inline-svg:0603e19b4b9cf503"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "711612e7ee9de055",
+      "kind": "image",
+      "name": "svg-12",
+      "path": "C:\\Users\\ernes\\AppData\\Local\\Temp/browser-use/assets/4a0f5064-d6f1-4663-9bed-64d042bdc053/711612e7ee9de055.svg",
+      "url": "inline-svg:711612e7ee9de055"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "2ec5488910571b35",
+      "kind": "image",
+      "name": "svg-13",
+      "path": "C:\\Users\\ernes\\AppData\\Local\\Temp/browser-use/assets/4a0f5064-d6f1-4663-9bed-64d042bdc053/2ec5488910571b35.svg",
+      "url": "inline-svg:2ec5488910571b35"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "525a12816b9fe93f",
+      "kind": "image",
+      "name": "svg-14",
+      "path": "C:\\Users\\ernes\\AppData\\Local\\Temp/browser-use/assets/4a0f5064-d6f1-4663-9bed-64d042bdc053/525a12816b9fe93f.svg",
+      "url": "inline-svg:525a12816b9fe93f"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "e33b3ad6a72d2490",
+      "kind": "image",
+      "name": "svg-15",
+      "path": "C:\\Users\\ernes\\AppData\\Local\\Temp/browser-use/assets/4a0f5064-d6f1-4663-9bed-64d042bdc053/e33b3ad6a72d2490.svg",
+      "url": "inline-svg:e33b3ad6a72d2490"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "b93adbc657fcd08d",
+      "kind": "image",
+      "name": "svg-16",
+      "path": "C:\\Users\\ernes\\AppData\\Local\\Temp/browser-use/assets/4a0f5064-d6f1-4663-9bed-64d042bdc053/b93adbc657fcd08d.svg",
+      "url": "inline-svg:b93adbc657fcd08d"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "6cc6875e52916f91",
+      "kind": "image",
+      "name": "svg-17",
+      "path": "C:\\Users\\ernes\\AppData\\Local\\Temp/browser-use/assets/4a0f5064-d6f1-4663-9bed-64d042bdc053/6cc6875e52916f91.svg",
+      "url": "inline-svg:6cc6875e52916f91"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "e44ad266381fffa9",
+      "kind": "image",
+      "name": "svg-18",
+      "path": "C:\\Users\\ernes\\AppData\\Local\\Temp/browser-use/assets/4a0f5064-d6f1-4663-9bed-64d042bdc053/e44ad266381fffa9.svg",
+      "url": "inline-svg:e44ad266381fffa9"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "a3fcb5ab711ee9d0",
+      "kind": "image",
+      "name": "svg-19",
+      "path": "C:\\Users\\ernes\\AppData\\Local\\Temp/browser-use/assets/4a0f5064-d6f1-4663-9bed-64d042bdc053/a3fcb5ab711ee9d0.svg",
+      "url": "inline-svg:a3fcb5ab711ee9d0"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "dcf39bb6f156be67",
+      "kind": "image",
+      "name": "svg-20",
+      "path": "C:\\Users\\ernes\\AppData\\Local\\Temp/browser-use/assets/4a0f5064-d6f1-4663-9bed-64d042bdc053/dcf39bb6f156be67.svg",
+      "url": "inline-svg:dcf39bb6f156be67"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "9996b4d7fafd2f29",
+      "kind": "image",
+      "name": "svg-21",
+      "path": "C:\\Users\\ernes\\AppData\\Local\\Temp/browser-use/assets/4a0f5064-d6f1-4663-9bed-64d042bdc053/9996b4d7fafd2f29.svg",
+      "url": "inline-svg:9996b4d7fafd2f29"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "ecf2a41e25fe3230",
+      "kind": "image",
+      "name": "svg-22",
+      "path": "C:\\Users\\ernes\\AppData\\Local\\Temp/browser-use/assets/4a0f5064-d6f1-4663-9bed-64d042bdc053/ecf2a41e25fe3230.svg",
+      "url": "inline-svg:ecf2a41e25fe3230"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "9b452bb264e7b099",
+      "kind": "image",
+      "name": "svg-23",
+      "path": "C:\\Users\\ernes\\AppData\\Local\\Temp/browser-use/assets/4a0f5064-d6f1-4663-9bed-64d042bdc053/9b452bb264e7b099.svg",
+      "url": "inline-svg:9b452bb264e7b099"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "dcafb1332d79c8a5",
+      "kind": "image",
+      "name": "svg-24",
+      "path": "C:\\Users\\ernes\\AppData\\Local\\Temp/browser-use/assets/4a0f5064-d6f1-4663-9bed-64d042bdc053/dcafb1332d79c8a5.svg",
+      "url": "inline-svg:dcafb1332d79c8a5"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "6fb860a817e8a8d9",
+      "kind": "image",
+      "name": "svg-25",
+      "path": "C:\\Users\\ernes\\AppData\\Local\\Temp/browser-use/assets/4a0f5064-d6f1-4663-9bed-64d042bdc053/6fb860a817e8a8d9.svg",
+      "url": "inline-svg:6fb860a817e8a8d9"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "30e4230bb476e39d",
+      "kind": "image",
+      "name": "svg-26",
+      "path": "C:\\Users\\ernes\\AppData\\Local\\Temp/browser-use/assets/4a0f5064-d6f1-4663-9bed-64d042bdc053/30e4230bb476e39d.svg",
+      "url": "inline-svg:30e4230bb476e39d"
+    }
+  ],
+  "failures": [
+    {
+      "contentType": null,
+      "id": "3c9810d1a1a99ac1",
+      "name": "icon-sprite.7F15unOj.svg#search",
+      "reason": "Asset response type missing is not valid for image",
+      "url": "https://remax.smbiotica.net/_nuxt/icon-sprite.7F15unOj.svg#search"
+    },
+    {
+      "contentType": null,
+      "id": "11c5d3cc41526923",
+      "name": "icon-sprite.svg#stroke-ui-kits",
+      "reason": "Asset response type missing is not valid for image",
+      "url": "https://remax.smbiotica.net/svg/icon-sprite.svg#stroke-ui-kits"
+    }
+  ]
+}

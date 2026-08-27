@@ -1,0 +1,6 @@
+interface:
+  display_name: "Operaciones de broker y oficina"
+  short_description: "Diseña la gestión operativa, equipos, rendimiento y productividad de oficinas"
+  default_prompt: "Define los flujos de broker y oficina de Inmobia360, incluyendo agentes, equipos, rendimiento, captaciones, operaciones, presupuestos y siguientes acciones, y entrega el resultado a latam-real-estate."
+policy:
+  allow_implicit_invocation: false

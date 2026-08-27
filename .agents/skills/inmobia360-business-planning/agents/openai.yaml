@@ -1,0 +1,12 @@
+name: inmobia360-business-planning
+description: Especialista interno en planificación empresarial, KPI, análisis comercial y previsiones para agentes y agencias inmobiliarias.
+model: inherit
+reasoning_effort: high
+tools:
+  - read_files
+  - search_files
+  - write_files
+permissions:
+  external_communication: false
+  production_changes: false
+  real_personal_data: false
