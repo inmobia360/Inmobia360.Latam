@@ -120,3 +120,11 @@ Todas las decisiones de esta versión están fechadas el 2026-08-27.
 - Decisión: definir el destino técnico de cada dominio y subdominio antes de conectar Hostinger, modificar DNS, adquirir servicios o desplegar.
 - Restricciones: no realizar compras, cambios DNS, conexiones externas ni despliegues durante esta preparación.
 - Evidencia: instrucción de Juan de proseguir con el siguiente paso recomendado.
+
+## D-020 — VPS como capa de orquestación de IA
+
+- Estado: aprobada para diseño; implementación pendiente.
+- Fecha: 2026-08-27.
+- Decisión: evaluar el VPS KVM 2 como capa para orquestar agentes, subagentes, automatizaciones y acciones de IA, manteniendo inicialmente el modelo de IA como servicio cloud separado.
+- Restricciones: no instalar modelos, runtimes ni automatizadores; no conectar servicios; no procesar datos personales reales; no ejecutar acciones irreversibles sin aprobación humana.
+- Evidencia: instrucción explícita de Juan sobre el uso previsto del VPS.
