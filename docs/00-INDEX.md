@@ -14,6 +14,7 @@
 - [Política de Git y releases](governance/git-release-policy.md)
 - [Secretos y rollback](governance/secrets-and-rollback.md)
 - [Matriz de destino de alojamiento](governance/hosting-target-matrix.md)
+- [Arquitectura de orquestación de IA](governance/ai-orchestration-architecture.md)
 
 ## Producto y negocio
 
