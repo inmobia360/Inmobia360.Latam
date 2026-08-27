@@ -112,3 +112,11 @@ Todas las decisiones de esta versión están fechadas el 2026-08-27.
 - Decisión: utilizar `inmobia360.com` como landing institucional de presentación del negocio; mantener las landings comerciales por país en subdirectorios; reservar subdominios como `app.inmobia360.com`, `demo.inmobia360.com` y `ayuda.inmobia360.com` para aplicación, demostración y soporte global.
 - Regla: cualquier subdominio nuevo deberá tener una función concreta, validada y documentada antes de crearse.
 - Evidencia: confirmación explícita de Juan.
+
+## D-018 — Preparación del destino de alojamiento
+
+- Estado: aprobada para preparación documental.
+- Fecha: 2026-08-27.
+- Decisión: definir el destino técnico de cada dominio y subdominio antes de conectar Hostinger, modificar DNS, adquirir servicios o desplegar.
+- Restricciones: no realizar compras, cambios DNS, conexiones externas ni despliegues durante esta preparación.
+- Evidencia: instrucción de Juan de proseguir con el siguiente paso recomendado.
