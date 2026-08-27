@@ -75,3 +75,4 @@ Los campos, relaciones, estados, permisos, auditoría y reglas de deduplicación
 - Canal WhatsApp y nivel de integración.
 - KPIs y umbrales de éxito.
 - Requisitos legales y de privacidad aplicables.
+
