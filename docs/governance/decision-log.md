@@ -144,3 +144,11 @@ Todas las decisiones de esta versión están fechadas el 2026-08-27.
 - Decisión: estructurar funcional y técnicamente el MVP Perú antes de programar, manteniendo Lima como piloto, WhatsApp como canal prioritario y datos sintéticos.
 - Restricciones: no iniciar desarrollo, no conectar IA, no activar integraciones externas ni ampliar el alcance aprobado.
 - Evidencia: instrucción de Juan de proseguir con la estructura del proyecto.
+
+## D-023 — Diseño conceptual del modelo de datos
+
+- Estado: aprobado para diseño; implementación pendiente.
+- Fecha: 2026-08-27.
+- Decisión: estructurar entidades candidatas para leads, perfiles, propiedades, demandas, actividades, matches y eventos de canal, utilizando identificadores internos, datos sintéticos y trazabilidad.
+- Restricciones: no crear tablas, migraciones ni operar con datos personales reales hasta validar campos, permisos, retención y requisitos legales.
+- Evidencia: instrucción de Juan de proseguir con la estructura del proyecto.
