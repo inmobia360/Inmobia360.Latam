@@ -32,3 +32,9 @@ Siguen pendientes de validación: precios, segmentos detallados, KPIs numéricos
 - La separación entre webs comerciales y aplicación SaaS permitirá evolucionar cada superficie de forma independiente.
 
 Estas hipótesis no sustituyen validación de usuarios, mercado, legalidad ni viabilidad técnica.
+
+## Dirección técnica prevista para IA
+
+- El VPS KVM 2 se evaluará como capa de orquestación de IA, automatizaciones y agentes internos.
+- El modelo de IA se considera inicialmente un servicio cloud separado.
+- El proveedor, modelo, permisos, costes y datos permitidos siguen pendientes de validación.
