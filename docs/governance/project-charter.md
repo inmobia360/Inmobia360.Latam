@@ -35,6 +35,7 @@ El MVP validará primero:
 - `app.inmobia360.com`: aplicación SaaS.
 - `demo.inmobia360.com`: entorno de demostración.
 - `ayuda.inmobia360.com`: futura documentación y soporte.
+- Los nuevos subdominios solo se crearán cuando exista una función concreta, validada y documentada; no se crearán anticipadamente.
 - WordPress + Bricks: webs comerciales.
 - Next.js separado: aplicación SaaS.
 
