@@ -21,3 +21,4 @@ Estado: propuesta de preparación.
 ## Releases
 
 Cada release deberá indicar alcance, commit, entorno, validaciones, aprobador, riesgos conocidos y procedimiento de rollback. Todavía no se ha definido una herramienta ni una convención de versionado definitiva.
+
