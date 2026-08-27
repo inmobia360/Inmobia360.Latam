@@ -25,4 +25,3 @@ Estado: estructura base verificada. No implica que los componentes estén implem
 ## Estado actual
 
 La estructura base está preparada para documentación, futura aplicación SaaS, web comercial, base de datos y pruebas. Los componentes técnicos todavía no están programados ni desplegados.
-

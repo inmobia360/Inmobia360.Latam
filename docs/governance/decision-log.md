@@ -161,3 +161,12 @@ Todas las decisiones de esta versión están fechadas el 2026-08-27.
 - Restricciones: no crear tablas, migraciones ni operar con datos personales reales hasta validar campos, permisos, retención y requisitos legales.
 - Evidencia: instrucción de Juan de proseguir con la estructura del proyecto.
 
+## D-024 — Dirección de producto y contexto de marca
+
+- Estado: aprobada para diseño; implementación, activación de subdominios y modelo comercial pendientes.
+- Fecha: 2026-08-27.
+- Decisión: orientar la evolución hacia una plataforma PropTech guiada para agentes y pequeñas agencias, con espacio privado, páginas públicas de propiedades, asistente de productividad, Red Profesional regional y futuro directorio de agentes con reputación verificable.
+- Decisión de marca: mantener `inmobia360.com` como dominio principal y usar la identidad del manual maestro como referencia común; “Red Profesional” sustituye a “MLS” como denominación de producto.
+- Alcance futuro: contemplar configuración por país, staff local, marca blanca y acompañamiento de operaciones hasta hitos de cierre, sujetos a validación legal, operativa y comercial por país.
+- Restricciones: no activar ranking, pagos, comisiones, marca blanca, subdominios nacionales o acompañamiento regulado hasta definir metodología, responsabilidades, costes, permisos y aprobación específica.
+- Evidencia: instrucción explícita de Juan y manual maestro de identidad corporativa proporcionado para contexto.

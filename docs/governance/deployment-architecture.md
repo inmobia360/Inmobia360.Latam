@@ -32,4 +32,3 @@ Estado: propuesta de preparación. No autoriza despliegues.
 - Método de despliegue para Next.js.
 - Gestión de DNS, SSL, copias de seguridad y rollback.
 - Registro de subdominios, responsables, entornos, datos tratados y controles de seguridad.
-

@@ -30,4 +30,3 @@ Estado: marco de evaluación. No selecciona ni conecta ningún proveedor.
 - Volumen estimado de tareas.
 - Presupuesto aprobado.
 - Requisitos de residencia y retención de datos.
-

@@ -2,6 +2,8 @@
 
 ## Gobierno
 
+- [Contexto de identidad corporativa](brand/BRAND-CONTEXT.md)
+
 - [Estado actual](CURRENT-STATE.md)
 - [Project charter](governance/project-charter.md)
 - [Objetivos y KPIs](governance/objectives-and-kpis.md)

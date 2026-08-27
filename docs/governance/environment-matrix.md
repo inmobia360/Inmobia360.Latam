@@ -16,4 +16,3 @@ Estado: propuesta de preparación.
 3. La promoción a producción requiere aprobación explícita de Juan.
 4. Todo despliegue debe tener una reversión documentada.
 5. No se usarán datos personales reales durante el MVP documental o de demostración.
-
