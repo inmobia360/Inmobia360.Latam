@@ -1,0 +1,6 @@
+interface:
+  display_name: "Red Profesional y colaboración"
+  short_description: "Diseña colaboración, oportunidades, referidos y actividad verificable"
+  default_prompt: "Diseña el modo Red Profesional de Inmobia360 con feed, oportunidades, demandas, referidos, perfiles, permisos, moderación y trazabilidad, y entrega el resultado a latam-real-estate."
+policy:
+  allow_implicit_invocation: false

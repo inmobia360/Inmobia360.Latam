@@ -1,0 +1,6 @@
+interface:
+  display_name: "Formación, políticas y soporte"
+  short_description: "Diseña aprendizaje, políticas operativas y ayuda para agentes y oficinas"
+  default_prompt: "Diseña el centro de ayuda, formación, políticas y soporte de Inmobia360 para agentes, brokers y oficinas, y entrega el resultado a latam-real-estate."
+policy:
+  allow_implicit_invocation: false

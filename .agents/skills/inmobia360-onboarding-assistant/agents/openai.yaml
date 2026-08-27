@@ -1,0 +1,12 @@
+name: inmobia360-onboarding-assistant
+description: Especialista interno en onboarding guiado, estados, evidencias, soporte contextual y escalado para usuarios inmobiliarios.
+model: inherit
+reasoning_effort: high
+tools:
+  - read_files
+  - search_files
+  - write_files
+permissions:
+  external_communication: false
+  production_changes: false
+  real_personal_data: false

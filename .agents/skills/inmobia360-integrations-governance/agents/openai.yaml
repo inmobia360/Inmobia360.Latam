@@ -1,0 +1,6 @@
+interface:
+  display_name: "Integraciones y ecosistema"
+  short_description: "Ordena herramientas, proveedores, permisos y dependencias del ecosistema"
+  default_prompt: "Diseña el catálogo de herramientas, integraciones y proveedores de Inmobia360 con sus permisos, datos, riesgos y responsables, y entrega el resultado a latam-real-estate."
+policy:
+  allow_implicit_invocation: false
