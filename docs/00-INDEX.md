@@ -9,6 +9,10 @@
 - [Registro de decisiones](governance/decision-log.md)
 - [Registro de riesgos](governance/risk-register.md)
 - [Seguridad y privacidad](governance/SECURITY-PRIVACY.md)
+- [Arquitectura de despliegue](governance/deployment-architecture.md)
+- [Matriz de entornos](governance/environment-matrix.md)
+- [Política de Git y releases](governance/git-release-policy.md)
+- [Secretos y rollback](governance/secrets-and-rollback.md)
 
 ## Producto y negocio
 
