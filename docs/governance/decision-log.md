@@ -136,3 +136,11 @@ Todas las decisiones de esta versión están fechadas el 2026-08-27.
 - Decisión: seleccionar el modelo y proveedor de IA mediante criterios documentados de seguridad, privacidad, coste, capacidad, portabilidad y operación. La primera fase se limitará a tareas no destructivas con datos sintéticos.
 - Restricciones: no conectar proveedores, no enviar datos personales reales, no permitir cambios DNS, compras, mensajes externos ni acciones de producción automáticas.
 - Evidencia: aplicación del flujo de decisión de `latam-real-estate` y autorización de Juan para proseguir.
+
+## D-022 — Blueprint técnico inicial del MVP
+
+- Estado: aprobado para diseño; implementación pendiente.
+- Fecha: 2026-08-27.
+- Decisión: estructurar funcional y técnicamente el MVP Perú antes de programar, manteniendo Lima como piloto, WhatsApp como canal prioritario y datos sintéticos.
+- Restricciones: no iniciar desarrollo, no conectar IA, no activar integraciones externas ni ampliar el alcance aprobado.
+- Evidencia: instrucción de Juan de proseguir con la estructura del proyecto.
