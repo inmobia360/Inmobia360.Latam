@@ -60,3 +60,7 @@ Estos datos son un inventario informado. No implican autorización para acceder,
 - La revisión de preparación del repositorio concluye `GO CONDICIONADO` para continuar la preparación documental y `NO-GO` para programar o desplegar: siguen pendientes la validación de Fase 2, el blueprint técnico, los contratos API, los roles/permisos, la seguridad, las pruebas y el plan de releases.
 - Se propone `inmobia360-performance-marketing` como futura especialidad unificada para publicidad de pago, análisis social, atribución y formatos; no está implementada ni aprobada para conexiones externas.
 - La investigación automatizada de competidores y portales queda como propuesta futura de `inmobia360-market-intelligence`, sujeta a límites legales, de privacidad y de seguridad.
+- Se ha adoptado documentalmente una metodología SDD propia, con `specs/`,
+  plantillas de spec/clarificación/plan/tareas/validación y reglas de trazabilidad.
+  Su uso queda limitado a iniciativas autorizadas y no implica que exista código
+  implementado.

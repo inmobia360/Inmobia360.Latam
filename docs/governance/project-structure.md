@@ -13,11 +13,13 @@ Estado: estructura base verificada. No implica que los componentes estén implem
 | `wordpress/` | Futura web comercial WordPress + Bricks | Reservado |
 | `database/` | Futuro esquema, migraciones y documentación de datos | Reservado |
 | `tests/` | Futuras pruebas automatizadas y criterios verificables | Reservado |
+| `specs/` | Specs, planes, tareas y validaciones SDD por iniciativa | Activo |
 
 ## Reglas de crecimiento
 
 - No crear archivos de implementación hasta aprobar el diseño correspondiente.
 - Mantener aplicación, WordPress, base de datos y pruebas separados.
+- Mantener cada iniciativa trazada desde `spec.md` hasta `validation.md`.
 - No almacenar credenciales, datos personales reales ni artefactos de producción.
 - Cada nuevo directorio debe tener una responsabilidad concreta y documentada.
 - Las decisiones que afecten la estructura se registrarán antes de ejecutarse.

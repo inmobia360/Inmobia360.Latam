@@ -170,3 +170,19 @@ Todas las decisiones de esta versión están fechadas el 2026-08-27.
 - Alcance futuro: contemplar configuración por país, staff local, marca blanca y acompañamiento de operaciones hasta hitos de cierre, sujetos a validación legal, operativa y comercial por país.
 - Restricciones: no activar ranking, pagos, comisiones, marca blanca, subdominios nacionales o acompañamiento regulado hasta definir metodología, responsabilidades, costes, permisos y aprobación específica.
 - Evidencia: instrucción explícita de Juan y manual maestro de identidad corporativa proporcionado para contexto.
+
+## D-025 — Adopción de Spec-Driven Development
+
+- Estado: aprobada para preparación documental y uso en iniciativas autorizadas.
+- Fecha: 2026-08-28.
+- Decisión: adoptar un flujo SDD adaptado a Inmobia360 LATAM: contexto y
+  constitución, spec funcional, clarificación, plan técnico, tareas,
+  implementación trazable, validación RF por RF y gestión de cambios desde la
+  spec.
+- Alcance: se aplica a nuevas iniciativas y no altera por sí misma el alcance
+  del MVP, la arquitectura aprobada, los precios, el presupuesto ni las
+  decisiones pendientes.
+- Restricciones: no copiar código o dependencias del repositorio de referencia;
+  no programar antes de aprobar la spec; usar datos sintéticos y mantener la
+  aprobación humana para decisiones reservadas.
+- Evidencia: estudio de `mouredev/hello-sdd` y aprobación explícita de Juan.

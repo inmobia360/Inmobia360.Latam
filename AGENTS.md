@@ -22,6 +22,17 @@ Esta carpeta contiene una copia documental inicial de la base de conocimiento di
 9. No desplegar ni cambiar permisos externos sin autorización.
 10. Actualizar la documentación afectada cuando una decisión sea aprobada.
 
+## Flujo SDD obligatorio
+
+- Para cada iniciativa, leer `docs/governance/sdd-methodology.md` y la spec
+  activa en `specs/` antes de implementar.
+- No escribir código antes de aprobar la spec y completar la clarificación.
+- Mantener separadas la spec funcional, el plan técnico, las tareas y la
+  validación requisito por requisito.
+- Trabajar una tarea cada vez, con pruebas antes del código cuando aplique.
+- Ante un cambio de alcance, actualizar primero la spec y detener la
+  implementación hasta obtener aprobación.
+
 ## Ámbito conocido
 
 - Proyecto: Inmobia360 LATAM.

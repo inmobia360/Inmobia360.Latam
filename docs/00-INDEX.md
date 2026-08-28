@@ -20,6 +20,7 @@
 - [Mapa de estructura del proyecto](governance/project-structure.md)
 - [Criterios de selección de IA](governance/ai-provider-selection.md)
 - [Permisos de acciones de IA](governance/ai-action-permissions.md)
+- [Metodología SDD](governance/sdd-methodology.md)
 
 ## Producto y negocio
 
@@ -52,3 +53,7 @@
 - [Skill directora](../.agents/skills/latam-real-estate/SKILL.md)
 - [Registro de skills](../.codex/skills-registry.yaml)
 - [Política de admisión externa](../.agents/skills/latam-real-estate/references/external-skill-admission.md)
+
+## Especificaciones SDD
+
+- [Índice de especificaciones](../specs/README.md)
