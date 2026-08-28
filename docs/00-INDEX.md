@@ -2,8 +2,8 @@
 
 ## Gobierno
 
+- [Constitución SDD](constitution.md)
 - [Contexto de identidad corporativa](brand/BRAND-CONTEXT.md)
-
 - [Estado actual](CURRENT-STATE.md)
 - [Project charter](governance/project-charter.md)
 - [Objetivos y KPIs](governance/objectives-and-kpis.md)
@@ -11,6 +11,7 @@
 - [Registro de decisiones](governance/decision-log.md)
 - [Registro de riesgos](governance/risk-register.md)
 - [Seguridad y privacidad](governance/SECURITY-PRIVACY.md)
+- [Workflow SDD](governance/sdd-workflow.md)
 - [Arquitectura de despliegue](governance/deployment-architecture.md)
 - [Matriz de entornos](governance/environment-matrix.md)
 - [Política de Git y releases](governance/git-release-policy.md)
@@ -34,6 +35,15 @@
 - [Roadmap](product/ROADMAP.md)
 - [Modelo de datos inmobiliarios](product/REAL-ESTATE-DATA-MODEL.md)
 - [Skills previstas](product/PLANNED-SKILLS.md)
+
+## SDD / Especificaciones
+
+- [Plantilla Spec](../specs/_templates/spec.md)
+- [Plantilla Plan](../specs/_templates/plan.md)
+- [Plantilla Tasks](../specs/_templates/tasks.md)
+- [Prompts operativos SDD](../.codex/sdd-prompts.md)
+
+Las funcionalidades nuevas deben crear una carpeta propia en `specs/NNN-nombre/` y mantener trazabilidad `RF → Plan → Task → Implementación → Evidencia`.
 
 ## Gobierno transversal
 
