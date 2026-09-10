@@ -48,6 +48,7 @@
 
 - [Registro de la fuente compartida](knowledge/SOURCE-CHAT-2026-08-27.md)
 - [Auditoría de la web publicada](knowledge/PUBLISHED-WEB-AUDIT-2026-09-10.md)
+- [Auditoría del repositorio broker](knowledge/BROKER-REPOSITORY-AUDIT-2026-09-10.md)
 
 ## Sistema de skills
 
@@ -58,3 +59,4 @@
 ## Especificaciones SDD
 
 - [Índice de especificaciones](../specs/README.md)
+- [Spec 001 — Asistente digital inmobiliario](../specs/001-broker-digital-inmobiliario/spec.md)

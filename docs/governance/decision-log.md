@@ -203,3 +203,20 @@ Todas las decisiones de esta versión están fechadas el 2026-08-27.
   específica mediante SDD antes de incorporarse o desplegarse.
 - Evidencia: auditoría publicada de la URL realizada el 2026-09-10 y aprobación
   explícita de Juan para tomarla como referencia.
+
+## D-027 — Repositorio broker como referencia de infraestructura
+
+- Estado: referencia técnica aprobada; adaptación e implementación pendientes.
+- Fecha: 2026-09-10.
+- Decisión: estudiar y adaptar la infraestructura de `inmobia360/broker` para
+  construir el asistente digital de profesionales inmobiliarios de Inmobia360
+  LATAM.
+- Alcance inicial: BROKER como interlocutor, coordinación de especialistas,
+  expedientes, aislamiento por agencia/tenant, memoria gobernada, ingesta
+  trazable y control independiente de calidad.
+- Restricciones: adaptar España a Perú/Lima; no copiar datos, secretos,
+  normativa, código o dependencias sin revisión; no activar integraciones,
+  MCP, acciones externas ni datos personales reales; aplicar SDD antes de
+  implementar.
+- Evidencia: auditoría del repositorio en el commit `03c6b49`, Spec 001 y
+  aprobación explícita de Juan para usarlo como referencia.

@@ -69,3 +69,9 @@ Estos datos son un inventario informado. No implican autorización para acceder,
   está en `docs/knowledge/PUBLISHED-WEB-AUDIT-2026-09-10.md`. No se adopta por
   ello su mercado visible, precios, métricas, testimonios, claims ni código como
   decisiones aprobadas o como implementación presente en este repositorio.
+- El repositorio `inmobia360/broker`, commit `03c6b49`, queda registrado como
+  referencia técnica para una infraestructura de asistente digital. Se ha
+  creado la Spec 001 para adaptar su patrón de BROKER, especialistas,
+  expedientes, memoria aislada, ingesta y control de calidad a Perú/Lima. La
+  implementación de código queda pendiente de clarificación y aprobación de la
+  spec.
