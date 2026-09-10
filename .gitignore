@@ -1,0 +1,6 @@
+# Artefactos locales de ejecución
+__pycache__/
+*.py[cod]
+
+# Workspace temporal y datos locales no versionables
+tmp/
