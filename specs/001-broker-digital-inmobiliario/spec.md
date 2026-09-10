@@ -115,13 +115,18 @@ externas sin autorización.
 - No se versionan secretos, PII ni originales confidenciales.
 - Juan aprueba la spec, el plan y cualquier decisión reservada.
 
+## Decisiones resueltas
+
+- La primera entrega incluye infraestructura de agentes y expedientes, además
+  de una interfaz web local para operar el flujo con datos sintéticos.
+- La agencia sintética de prueba será `Inmobiliaria Demo Broker`.
+- Se autoriza un backend local antes de elegir la base de datos y el
+  almacenamiento definitivos.
+- MCP queda reservado para una fase posterior y no forma parte de esta entrega.
+
 ## Dudas abiertas
 
-- [NECESITA ACLARACIÓN: ¿La primera implementación debe ser solo la
-  infraestructura de agentes y expedientes, o también una interfaz web local?]
-- [NECESITA ACLARACIÓN: ¿Qué agencia sintética y qué `tenant_id` se usarán
-  para la prueba inicial?]
-- [NECESITA ACLARACIÓN: ¿Se autoriza implementar un backend local antes de
-  elegir proveedor de base de datos y almacenamiento?]
-- [NECESITA ACLARACIÓN: ¿MCP queda reservado para una fase posterior, como
-  propone esta spec?]
+- [NECESITA ACLARACIÓN: proveedor de base de datos y almacenamiento para una
+  fase posterior de persistencia]
+- [NECESITA ACLARACIÓN: proveedor de IA y política de retención antes de
+  conectar cualquier modelo]

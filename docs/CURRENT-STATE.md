@@ -75,3 +75,8 @@ Estos datos son un inventario informado. No implican autorización para acceder,
   expedientes, memoria aislada, ingesta y control de calidad a Perú/Lima. La
   implementación de código queda pendiente de clarificación y aprobación de la
   spec.
+- Juan ha definido el alcance inicial de la Spec 001: infraestructura de agentes
+  y expedientes más interfaz web local, usando la agencia sintética
+  `Inmobiliaria Demo Broker`; backend local autorizado y MCP reservado para una
+  fase posterior. El plan técnico y la implementación siguen pendientes de
+  aprobación de la puerta SDD.

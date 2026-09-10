@@ -1,13 +1,11 @@
 # Clarificación — Spec 001
 
-Estado: pendiente de revisión y respuestas de Juan.
+Estado: revisada con las respuestas de Juan; apta para planificación.
 
 ## Ambigüedades
 
-1. La frontera entre infraestructura local de agentes y aplicación SaaS aún
-   no está decidida.
-2. No está definido el primer flujo operativo que se validará con una agencia
-   sintética.
+1. El detalle del stack del backend y de la interfaz se decidirá en el plan
+   técnico sin comprometer la arquitectura de superficies aprobada.
 
 ## Contradicciones entre requisitos
 
@@ -15,15 +13,16 @@ Estado: pendiente de revisión y respuestas de Juan.
 
 ## Casos límite no cubiertos
 
-1. Pendiente decidir el comportamiento exacto ante concurrencia en persistencia.
-2. Pendiente definir el mecanismo de identidad cuando exista aplicación.
+1. El comportamiento exacto ante concurrencia en persistencia queda para el
+   plan técnico y las pruebas del backend.
+2. El mecanismo de identidad real queda fuera de esta primera entrega local.
 
 ## Conflictos con la gobernanza
 
 1. La referencia contiene un MVP para España; esta iniciativa lo restringe a
    Perú/Lima y no incorpora automáticamente normativa española.
 2. El repositorio de referencia incluye MCP, pero esta spec lo mantiene fuera
-   de alcance hasta una decisión específica.
+   de alcance en la primera entrega por decisión de Juan.
 
 ## Riesgos pendientes
 
@@ -33,4 +32,7 @@ Estado: pendiente de revisión y respuestas de Juan.
 
 ## Veredicto
 
-`INFORMACIÓN INSUFICIENTE`
+`GO CONDICIONADO`
+
+Condición: aprobar el plan técnico antes de escribir código y mantener el
+primer entorno en local, con datos sintéticos y sin servicios externos.

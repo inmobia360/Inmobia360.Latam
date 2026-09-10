@@ -60,3 +60,4 @@
 
 - [Índice de especificaciones](../specs/README.md)
 - [Spec 001 — Asistente digital inmobiliario](../specs/001-broker-digital-inmobiliario/spec.md)
+- [Plan Spec 001 — Asistente digital inmobiliario](../specs/001-broker-digital-inmobiliario/plan.md)

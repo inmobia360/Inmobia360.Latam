@@ -220,3 +220,20 @@ Todas las decisiones de esta versión están fechadas el 2026-08-27.
   implementar.
 - Evidencia: auditoría del repositorio en el commit `03c6b49`, Spec 001 y
   aprobación explícita de Juan para usarlo como referencia.
+
+## D-028 — Alcance inicial de la infraestructura de asistente
+
+- Estado: aprobado para planificación SDD; implementación pendiente.
+- Fecha: 2026-09-10.
+- Decisión: la primera entrega incluirá infraestructura de agentes y
+  expedientes, además de una interfaz web local.
+- Datos de prueba: agencia sintética `Inmobiliaria Demo Broker`, con
+  `tenant_id: tenant-inmobiliaria-demo-broker` y
+  `agency_slug: inmobiliaria-demo-broker`.
+- Backend: autorizado para desarrollarse localmente antes de elegir base de
+  datos y almacenamiento definitivos.
+- MCP: reservado para una fase posterior.
+- Restricciones: datos sintéticos, sin servicios externos, sin producción y
+  con aprobación de la spec y del plan antes de escribir código.
+- Evidencia: respuestas explícitas de Juan a las preguntas de clarificación de
+  la Spec 001.
