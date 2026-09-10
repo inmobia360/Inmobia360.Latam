@@ -14,6 +14,7 @@ Estado: estructura base verificada. No implica que los componentes estén implem
 | `database/` | Futuro esquema, migraciones y documentación de datos | Reservado |
 | `tests/` | Futuras pruebas automatizadas y criterios verificables | Reservado |
 | `specs/` | Specs, planes, tareas y validaciones SDD por iniciativa | Activo |
+| `local-broker/` | Backend e interfaz local del asistente digital | Preparado; sin código todavía |
 
 ## Reglas de crecimiento
 

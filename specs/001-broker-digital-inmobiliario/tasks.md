@@ -1,6 +1,6 @@
 # Tareas — Spec 001
 
-- [ ] T1. Registrar decisiones de stack local, límites y estructura técnica.
+- [x] T1. Registrar decisiones de stack local, límites y estructura técnica.
   (RF: RF-013, RF-014) Hecho cuando: las decisiones están documentadas y no
   introducen dependencias sin autorización.
 - [ ] T2. Crear el dominio de agencia, tenant y expediente con estados.

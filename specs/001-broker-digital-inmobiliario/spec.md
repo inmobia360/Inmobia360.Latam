@@ -78,6 +78,8 @@ externas sin autorización.
   formar parte del contenido versionable.
 - La primera implementación deberá poder validarse localmente con datos
   sintéticos y sin servicios externos conectados.
+- La primera implementación no dependerá de paquetes externos para ejecutar el
+  backend local.
 - La solución deberá permitir adaptadores por país sin introducir reglas
   españolas en el núcleo peruano.
 

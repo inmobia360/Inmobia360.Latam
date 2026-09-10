@@ -2,8 +2,8 @@
 
 ## Estado
 
-Propuesta pendiente de aprobación técnica. No autoriza por sí sola la
-implementación ni la instalación de dependencias.
+Aprobado para iniciar la Tarea 2. La implementación local se mantiene sin
+dependencias externas y no autoriza despliegues ni conexiones de producción.
 
 ## Decisiones y restricciones
 
@@ -17,6 +17,12 @@ implementación ni la instalación de dependencias.
   persistencia definitiva queda pendiente.
 - La implementación se mantendrá separada de WordPress y de la futura
   aplicación SaaS regional.
+- El backend local se implementará en Python usando exclusivamente la
+  biblioteca estándar.
+- La interfaz web local será HTML, CSS y JavaScript servidos por el backend
+  local; no será todavía la aplicación Next.js de producción.
+- La estructura local de esta iniciativa será `local-broker/`, separada de
+  `app/`, `wordpress/` y `database/`.
 
 ## Componentes y responsabilidades
 
@@ -75,15 +81,15 @@ No se permite `closed` sin una revisión `approved` completa.
 
 | Decisión | Motivo | Alternativa descartada |
 |---|---|---|
-| Backend local con frontera HTTP/servicio definida | Permite probar interfaz y dominio sin comprometer producción | Acoplar la UI directamente a archivos |
+| Backend local Python con biblioteca estándar y frontera HTTP definida | Evita instalar dependencias y permite probar interfaz y dominio | Introducir un framework o proveedor antes de validar el flujo |
 | Persistencia provisional sustituible | Aún no hay decisión de base de datos | Fijar ahora una base de datos definitiva |
-| Interfaz web local separada del dominio | Mantiene la arquitectura de superficies | Mezclar reglas de negocio en componentes visuales |
+| Interfaz web estática servida por el backend y separada del dominio | Mantiene la arquitectura de superficies y permite validación local | Mezclar reglas de negocio en componentes visuales |
 | MCP fuera de esta entrega | Reduce riesgo y respeta la decisión aprobada | Añadir tokens e integración prematuramente |
 | Especialistas en modo lectura | Evita escrituras concurrentes y permisos excesivos | Permitir delegación y escritura libre |
 
-El lenguaje, framework web y librerías concretas se decidirán y registrarán
-antes de la Tarea de esqueleto técnico. No se instalarán dependencias sin
-autorización explícita para esa tarea.
+No se instalarán dependencias externas en esta iniciativa. Si la futura
+aplicación Next.js o una persistencia administrada requieren dependencias,
+se abrirá una decisión específica antes de incorporarlas.
 
 ## Trazabilidad hacia requisitos
 

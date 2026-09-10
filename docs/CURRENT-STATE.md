@@ -80,3 +80,7 @@ Estos datos son un inventario informado. No implican autorización para acceder,
   `Inmobiliaria Demo Broker`; backend local autorizado y MCP reservado para una
   fase posterior. El plan técnico y la implementación siguen pendientes de
   aprobación de la puerta SDD.
+- La Tarea 1 de la Spec 001 está completada: el stack local será Python con
+  biblioteca estándar y una interfaz HTML/CSS/JavaScript estática servida por
+  el backend, dentro de `local-broker/`. La Tarea 2 será el siguiente paso y
+  aún no existe código implementado.

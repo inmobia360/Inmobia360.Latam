@@ -237,3 +237,18 @@ Todas las decisiones de esta versión están fechadas el 2026-08-27.
   con aprobación de la spec y del plan antes de escribir código.
 - Evidencia: respuestas explícitas de Juan a las preguntas de clarificación de
   la Spec 001.
+
+## D-029 — Stack local inicial del asistente
+
+- Estado: aprobado para la Tarea 1; implementación pendiente.
+- Fecha: 2026-09-10.
+- Decisión: usar Python con biblioteca estándar para el backend local y una
+  interfaz HTML/CSS/JavaScript estática servida localmente por ese backend.
+- Estructura: `local-broker/`, separada de la futura aplicación Next.js,
+  WordPress y base de datos.
+- Motivo: validar el flujo de agentes y expedientes sin instalar dependencias
+  ni conectar servicios externos.
+- Restricciones: no elegir todavía base de datos definitiva, proveedor IA,
+  MCP ni infraestructura de producción.
+- Evidencia: aprobación de Juan del backend local y de la interfaz web local,
+  y cierre de la Tarea 1 del plan SDD.
