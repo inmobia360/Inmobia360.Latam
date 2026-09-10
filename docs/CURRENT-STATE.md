@@ -84,3 +84,6 @@ Estos datos son un inventario informado. No implican autorización para acceder,
   biblioteca estándar y una interfaz HTML/CSS/JavaScript estática servida por
   el backend, dentro de `local-broker/`. La Tarea 2 será el siguiente paso y
   aún no existe código implementado.
+- La Tarea 2 de la Spec 001 está completada con el dominio inicial de agencia,
+  tenant y expediente en `local-broker/`; sus 5 pruebas pasan. T3 es el
+  siguiente paso y todavía no existe orquestación BROKER implementada.

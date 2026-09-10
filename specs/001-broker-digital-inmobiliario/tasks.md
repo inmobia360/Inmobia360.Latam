@@ -3,7 +3,7 @@
 - [x] T1. Registrar decisiones de stack local, límites y estructura técnica.
   (RF: RF-013, RF-014) Hecho cuando: las decisiones están documentadas y no
   introducen dependencias sin autorización.
-- [ ] T2. Crear el dominio de agencia, tenant y expediente con estados.
+- [x] T2. Crear el dominio de agencia, tenant y expediente con estados.
   (RF: RF-001..RF-003) Hecho cuando: las pruebas de identificación, estados y
   aislamiento sintético pasan.
 - [ ] T3. Crear el contrato común de especialistas y el orquestador BROKER.
