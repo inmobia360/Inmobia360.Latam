@@ -1,6 +1,6 @@
 # Estado actual
 
-Fecha de actualización: 2026-08-27.
+Fecha de actualización: 2026-09-10.
 
 ## Repositorio local
 
@@ -64,3 +64,8 @@ Estos datos son un inventario informado. No implican autorización para acceder,
   plantillas de spec/clarificación/plan/tareas/validación y reglas de trazabilidad.
   Su uso queda limitado a iniciativas autorizadas y no implica que exista código
   implementado.
+- La web publicada `https://inmobia360.com/` queda registrada como referencia
+  autorizada de experiencia y capacidades para futuras iniciativas. Su auditoría
+  está en `docs/knowledge/PUBLISHED-WEB-AUDIT-2026-09-10.md`. No se adopta por
+  ello su mercado visible, precios, métricas, testimonios, claims ni código como
+  decisiones aprobadas o como implementación presente en este repositorio.

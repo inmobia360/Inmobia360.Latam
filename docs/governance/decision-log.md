@@ -186,3 +186,20 @@ Todas las decisiones de esta versión están fechadas el 2026-08-27.
   no programar antes de aprobar la spec; usar datos sintéticos y mantener la
   aprobación humana para decisiones reservadas.
 - Evidencia: estudio de `mouredev/hello-sdd` y aprobación explícita de Juan.
+
+## D-026 — Web publicada como referencia de evolución
+
+- Estado: aprobada como referencia funcional y visual; adopción concreta por
+  iniciativa pendiente.
+- Fecha: 2026-09-10.
+- Decisión: utilizar la web publicada `https://inmobia360.com/` como referencia
+  para estudiar la experiencia, superficies y capacidades que Juan quiere
+  evolucionar en Inmobia360 LATAM.
+- Alcance: la referencia no modifica automáticamente el mercado inicial Perú,
+  la ciudad piloto Lima, los precios pendientes, el alcance del MVP ni la
+  arquitectura aprobada.
+- Restricciones: precios, métricas, testimonios, claims, datos visibles,
+  scoring predictivo, IA, integraciones y código publicado requieren validación
+  específica mediante SDD antes de incorporarse o desplegarse.
+- Evidencia: auditoría publicada de la URL realizada el 2026-09-10 y aprobación
+  explícita de Juan para tomarla como referencia.

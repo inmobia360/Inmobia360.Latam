@@ -47,6 +47,7 @@
 ## Conocimiento de fuentes
 
 - [Registro de la fuente compartida](knowledge/SOURCE-CHAT-2026-08-27.md)
+- [Auditoría de la web publicada](knowledge/PUBLISHED-WEB-AUDIT-2026-09-10.md)
 
 ## Sistema de skills
 
